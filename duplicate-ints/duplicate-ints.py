@@ -4,7 +4,7 @@ import numpy as np
 import pdb
 
 parser = argparse.ArgumentParser()
-parser.add_argument('-l', '--list', nargs='*', help='path to CSV file with single list of N+1 ints between 1 and N')
+parser.add_argument('-l', '--list', nargs='?', help='path to CSV file with single list of N+1 ints between 1 and N')
 parser.add_argument('-s', '--stdin',  help='enter the list yourself', action="store_true")
 parser.add_argument('-d', '--default',  help='default list (hardcoded into program)', action="store_true")
 
