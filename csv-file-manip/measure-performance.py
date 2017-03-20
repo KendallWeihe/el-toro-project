@@ -22,7 +22,7 @@ def measure_numpy_package(csv_file):
     time1 = time.time()
     return time1 - time0, data
 
-f = "./Kentucky_Louisville_161221.csv"
+f = "./example-large-w-out-error.csv"
 csv_time, csv_data = measure_csv_package(f)
 np_time, np_data = measure_numpy_package(f)
 
