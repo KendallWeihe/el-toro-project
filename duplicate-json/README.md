@@ -6,7 +6,8 @@
 
 Use any language or program you are aware of to duplicate a field from a json file
 programmatically.
-Ex: Your json file looks like this:
+Ex: Your JSON file looks like this:
+```
 {[
 {"id":"123456","field1":"data1","field2":"data2"},
 {"id":"123457","field1":"data1","field2":"data2"},
@@ -20,5 +21,14 @@ and should end up like this
 …
 {"_id":"200301","id":"200301","field1":"data1","field20000":"data20000"},
 ]}
+```
 
 **NOTE**: JSON file must have the exact layout of the JSON object(s) in `example.json`
+
+### How to run:
+
+```
+kendall@kendall-XPS-8500:~/Development/el-toro-project/duplicate-json$ python duplicate-json.py -f example.json
+duplicated JSON file:
+{'items': [{'value_': 'New', 'value': 'New', 'onclick': 'CreateNewDoc()'}, {'value_': 'Open', 'value': 'Open', 'onclick': 'OpenDoc()'}, {'value_': 'Close', 'value': 'Close', 'onclick': 'CloseDoc()'}]}
+```
