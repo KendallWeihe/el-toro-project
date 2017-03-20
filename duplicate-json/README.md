@@ -30,5 +30,5 @@ and should end up like this
 ```
 kendall@kendall-XPS-8500:~/Development/el-toro-project/duplicate-json$ python duplicate-json.py -f example.json
 duplicated JSON file:
-{'items': [{'value_': 'New', 'value': 'New', 'onclick': 'CreateNewDoc()'}, {'value_': 'Open', 'value': 'Open', 'onclick': 'OpenDoc()'}, {'value_': 'Close', 'value': 'Close', 'onclick': 'CloseDoc()'}]}
+{'items': [{'onclick': 'CreateNewDoc()', '_onclick': 'CreateNewDoc()', 'value': 'New'}, {'onclick': 'OpenDoc()', '_onclick': 'OpenDoc()', 'value': 'Open'}, {'onclick': 'CloseDoc()', '_onclick': 'CloseDoc()', 'value': 'Close'}]}
 ```

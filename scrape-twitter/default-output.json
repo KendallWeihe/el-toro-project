@@ -1,0 +1,118 @@
+{
+  "tweets": [
+    {
+      "headline": "The UK will trigger Article 50 on March 29", 
+      "num_likes": "84 Likes", 
+      "subtitle": "Brexit", 
+      "description": "The UK government has announced that the letter formally triggering Article 50 of the Lisbon Treaty will be sent on March 29. This will begin the process of the UK leaving the European Union."
+    }, 
+    {
+      "headline": "Sesame Street is introducing an autistic character", 
+      "num_likes": "369 Likes", 
+      "subtitle": "Television", 
+      "description": "The show will debut a new Muppet in early April. Her name is Julia, she is on the Autism spectrum and Elmo loves her."
+    }, 
+    {
+      "headline": "Richard Hammond would like you to know he's fine", 
+      "num_likes": "34 Likes", 
+      "subtitle": "Celebrity", 
+      "description": "Reports have circulated of a \"horror motorcycle crash\" that left the Grand Tour host gravely injured. Hammond has assured fans he made a full recovery and didn't even need hospital treatment. 11 years ago Hammond was involved in a serious crash while filming for Top Gear."
+    }, 
+    {
+      "headline": "What you need to know Monday", 
+      "num_likes": "49 Likes", 
+      "subtitle": "World News", 
+      "description": "The first day of spring, FBI Director James Comey to testify on Russia, the Brexit process gets a start date, the happiest place on Earth and a look ahead."
+    }, 
+    {
+      "headline": "Kim Kardashian opens up about Paris Robbery", 
+      "num_likes": "426 Likes", 
+      "subtitle": "Television", 
+      "description": "In a heartbreaking recount of her Paris robbery, Kim set the record straight about what took place that night, including how she feared she'd be sexually assaulted during the ordeal."
+    }, 
+    {
+      "headline": "Trump's border wall must be big and sexy, apparently", 
+      "num_likes": "802 Likes", 
+      "subtitle": "Haha", 
+      "description": "On Sunday, Fox News relayed some of the White House requirements for President Trump's promised wall along the U.S.-Mexico border. Naturally, the internet had some fun with Trump's priorities."
+    }, 
+    {
+      "headline": "Uber's president steps down after less than a year", 
+      "num_likes": "124 Likes", 
+      "subtitle": "Business", 
+      "description": "CEO Travis Kalanick sent out an email confirming that the former Target CMO Jeff Jones will be leaving his role after about six months."
+    }, 
+    {
+      "headline": "If you've never seen a Brahma chicken, prepare to trip out", 
+      "num_likes": "1.6K Likes", 
+      "subtitle": "Weird", 
+      "description": "Colonel Sanders better watch his back."
+    }, 
+    {
+      "headline": "None", 
+      "num_likes": "757 Likes", 
+      "subtitle": "Haha", 
+      "description": "From Mamma Mia to Drake, this Meryl Streep meme catalogue runs deep."
+    }, 
+    {
+      "headline": "Surprise, America's favorite physicist is not a fan of the Trump budget", 
+      "num_likes": "1.8K Likes", 
+      "subtitle": "Opinion", 
+      "description": "Much has been made about Trump's proposed cuts to federally funded programs and agencies that support arts and sciences, and now Neil deGrasse Tyson is weighing in."
+    }, 
+    {
+      "headline": "Katy Perry can 'no longer sit in silence' on equality at HRC gala", 
+      "num_likes": "619 Likes", 
+      "subtitle": "Social Action", 
+      "description": "The pop singer and activist gave an emotional speech on LGBTQ equality while accepting the National Equality Award at the Human Rights Campaign Los Angeles Gala. She addressed her religious past and her refusal to stay silent on equality issues."
+    }, 
+    {
+      "headline": "Phaedra's Real Housewives divorce party didn't go as planned", 
+      "num_likes": "126 Likes", 
+      "subtitle": "Television", 
+      "description": "Kenya Moore and Phaedra Parks' friendship is back on the rocks after Kenya threw a surprise divorce party for Moore and it wasn't well-received. The audience had its own takes on who was in the right and who was in the wrong."
+    }, 
+    {
+      "headline": "Forget bottle flipping: Try cup blowing", 
+      "num_likes": "903 Likes", 
+      "subtitle": "Amazing", 
+      "description": "The #CupBlowingChallenge is about to take over school cafeterias across the globe."
+    }, 
+    {
+      "headline": "Calvin Harris gives behind-the-scenes look at recording 'Slide'", 
+      "num_likes": "533 Likes", 
+      "subtitle": "Music", 
+      "description": "The DJ, singer and songwriter breaks down recording his latest hit featuring Migos and Frank Ocean in a fascinating video."
+    }, 
+    {
+      "headline": "The most memorable quotes from Girls episode Full Disclosure", 
+      "num_likes": "35 Likes", 
+      "subtitle": "Television", 
+      "description": "**Spoilers ahead.**\n\nHannah confronts Marnie with her life-changing news and has uncomfortable conversations with both Adam and Jessa in the sixth episode of the final season."
+    }, 
+    {
+      "headline": "A quick GIF review of Drake's More Life", 
+      "num_likes": "891 Likes", 
+      "subtitle": "Pop Culture", 
+      "description": "When Drake drops a 22-track playlist, words are not enough."
+    }, 
+    {
+      "headline": "Kim K speaks about robbery ordeal in Keeping Up With The Kardashians", 
+      "num_likes": "287 Likes", 
+      "subtitle": "Television", 
+      "description": "Kim Kardashian will tell the story of her Paris robbery ordeal in her own words on tonight's Keeping Up With The Kardashians. Before the show, she spoke about the reason for telling her side of the story."
+    }, 
+    {
+      "headline": "Tune in: Start your morning with Bloomberg's Daybreak", 
+      "num_likes": "17 Likes", 
+      "subtitle": "Business", 
+      "description": "Bloomberg kicks off each morning with all the headlines, analysis and commentary you need to start the day. Catch the live stream every weekday, starting at 7 a.m. ET."
+    }, 
+    {
+      "headline": "Northwestern kid is this year's face of March Madness heartbreak", 
+      "num_likes": "526 Likes", 
+      "subtitle": "March Madness", 
+      "description": "A blown call late in the Northwestern vs. Gonzaga game left NU fans reeling, particularly the athletic director's son."
+    }
+  ]
+}
