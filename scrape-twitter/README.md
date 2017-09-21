@@ -12,7 +12,7 @@ data, and store the data in a json result file in jsonline format.
 
 **Get help:**
 ```
-kendall@kendall-XPS-8500:~/Development/el-toro-project/scrape-twitter$ python2 scrape-twitter.py -h
+kendall@kendall-XPS-8500:~/Development/interview-project/scrape-twitter$ python2 scrape-twitter.py -h
 usage: scrape-twitter.py [-h] [-l [LINK]] [-o [OUTPUT_FILE]]
 
 optional arguments:
@@ -25,10 +25,10 @@ optional arguments:
 
 **Run with default settings:**
 ```
-kendall@kendall-XPS-8500:~/Development/el-toro-project/scrape-twitter$ python2 scrape-twitter.py
+kendall@kendall-XPS-8500:~/Development/interview-project/scrape-twitter$ python2 scrape-twitter.py
 ```
 
 **Run with specified links and files:**
 ```
-kendall@kendall-XPS-8500:~/Development/el-toro-project/scrape-twitter$ python2 scrape-twitter.py -l https://twitter.com/i/moments -o user-specified.json
+kendall@kendall-XPS-8500:~/Development/interview-project/scrape-twitter$ python2 scrape-twitter.py -l https://twitter.com/i/moments -o user-specified.json
 ```

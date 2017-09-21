@@ -5,7 +5,7 @@ Code to test whether or not my guess on a question was correct. Turns out I was 
 **How to run**:
 
 ```
-kendall@kendall-XPS-8500:~/Development/el-toro-project/test-html-css-color$ python2 -m SimpleHTTPServer
+kendall@kendall-XPS-8500:~/Development/interview-project/test-html-css-color$ python2 -m SimpleHTTPServer
 Serving HTTP on 0.0.0.0 port 8000 ...
 ```
 

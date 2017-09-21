@@ -11,7 +11,7 @@ have a huge csv file.
 
   Output:
 ```
-kendall@kendall-XPS-8500:~/Development/el-toro-project/csv-file-manip$ python measure-performance.py
+kendall@kendall-XPS-8500:~/Development/interview-project/csv-file-manip$ python measure-performance.py
 Performance results:
 CSV package time: 0.0023887157440185547
 NumPy package time: 0.02461409568786621
@@ -33,7 +33,7 @@ NumPy / CSV ratio: 10.304321788601657
 
 **Get help**:
 ```
-kendall@kendall-XPS-8500:~/Development/el-toro-project/csv-file-manip$ python csv-file-manip.py -h
+kendall@kendall-XPS-8500:~/Development/interview-project/csv-file-manip$ python csv-file-manip.py -h
 usage: csv-file-manip.py [-h] [-c [CSV_FILE]] [-t [TYPE]] [-e]
 
 optional arguments:
@@ -57,7 +57,7 @@ Using the example CSV file, `example-small-w-error.csv`
 
 Detect empty entries and convert to integer data type:
 ```
-kendall@kendall-XPS-8500:~/Development/el-toro-project/csv-file-manip$ python csv-file-manip.py -c example-small-w-error.csv -e -t int
+kendall@kendall-XPS-8500:~/Development/interview-project/csv-file-manip$ python csv-file-manip.py -c example-small-w-error.csv -e -t int
 Error in converting to your data type or there is an empty entry in row: ['5', '6', '', '8']
 Error in converting to your data type or there is an empty entry in row: ['13', 'fourteen', '15', '16']
 
@@ -72,7 +72,7 @@ Data in column 4:
 
 Do not detect empty entires and convert to string data type:
 ```
-kendall@kendall-XPS-8500:~/Development/el-toro-project/csv-file-manip$ python csv-file-manip.py -c example-small-w-error.csv -t string
+kendall@kendall-XPS-8500:~/Development/interview-project/csv-file-manip$ python csv-file-manip.py -c example-small-w-error.csv -t string
 
 
 Entire CSV file data:

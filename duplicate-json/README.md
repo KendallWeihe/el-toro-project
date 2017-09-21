@@ -28,7 +28,7 @@ and should end up like this
 ### How to run:
 
 ```
-kendall@kendall-XPS-8500:~/Development/el-toro-project/duplicate-json$ python duplicate-json.py -f example.json
+kendall@kendall-XPS-8500:~/Development/interview-project/duplicate-json$ python duplicate-json.py -f example.json
 duplicated JSON file:
 {'items': [{'onclick': 'CreateNewDoc()', '_onclick': 'CreateNewDoc()', 'value': 'New'}, {'onclick': 'OpenDoc()', '_onclick': 'OpenDoc()', 'value': 'Open'}, {'onclick': 'CloseDoc()', '_onclick': 'CloseDoc()', 'value': 'Close'}]}
 ```

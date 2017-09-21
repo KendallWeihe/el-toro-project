@@ -2,7 +2,7 @@
 
 ###### Note python version:
 ```
-kendall@kendall-XPS-8500:~/Development/el-toro-project/duplicate-ints$ python --version
+kendall@kendall-XPS-8500:~/Development/interview-project/duplicate-ints$ python --version
 Python 3.4.3
 ```
 ###### Performance:
@@ -18,7 +18,7 @@ the first example, you can print '1' or '3' -- you don't have to print both.)
 
 **Get help**
 ```
-kendall@kendall-XPS-8500:~/Development/el-toro-project/duplicate-ints$ python duplicate-ints.py -h
+kendall@kendall-XPS-8500:~/Development/interview-project/duplicate-ints$ python duplicate-ints.py -h
 usage: duplicate-ints.py [-h] [-l [LIST]] [-s] [-d]
 
 optional arguments:
@@ -32,13 +32,13 @@ optional arguments:
 
 **Read a list of integers from a CSV file**
 ```
-kendall@kendall-XPS-8500:~/Development/el-toro-project/duplicate-ints$ python duplicate-ints.py -l example.csv
+kendall@kendall-XPS-8500:~/Development/interview-project/duplicate-ints$ python duplicate-ints.py -l example.csv
 duplicate: 3
 ```
 
 **Enter a list of integers into STDIN**
 ```
-kendall@kendall-XPS-8500:~/Development/el-toro-project/duplicate-ints$ python duplicate-ints.py -s
+kendall@kendall-XPS-8500:~/Development/interview-project/duplicate-ints$ python duplicate-ints.py -s
 Enter each integer separately and enter q or Q to quit
 > 1
 > 3
@@ -50,7 +50,7 @@ duplicate: 3
 
 **Use the default list -- hardcoded into the program**
 ```
-kendall@kendall-XPS-8500:~/Development/el-toro-project/duplicate-ints$ python duplicate-ints.py -d
+kendall@kendall-XPS-8500:~/Development/interview-project/duplicate-ints$ python duplicate-ints.py -d
 The default list is: [1, 3, 3, 1]
 duplicate: 3
 ```
